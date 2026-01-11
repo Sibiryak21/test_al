@@ -3,3 +3,4 @@ pandas
 scikit-learn==1.1.3
 seaborn
 streamlit
+pickle
