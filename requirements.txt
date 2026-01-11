@@ -1,5 +1,5 @@
 matplotlib==3.7.0
 pandas==1.5.3
-scikit_learn==1.0.2
+scikit-learn==1.0.2
 seaborn==0.11.2
-streamlit==0.81.0
+streamlit==1.81.0
