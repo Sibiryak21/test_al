@@ -13,7 +13,7 @@ st.write("Это приложение использует 6 признаков 
          "форму ниже!")
 
 password_guess = st.text_input("Введите пароль")
-if password_guess != st.secrets["password"]:
+if password_guess != st.secrets["2101"]:
     st.stop()
 
 penguin_df = pd.read_csv('penguins.csv')
